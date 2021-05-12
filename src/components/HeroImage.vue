@@ -12,11 +12,12 @@ export default {
   width: 100%;
   height: 100vh;
   top: 0;
+  left: 0;
   z-index: -1;
   background-image: url("../assets/hero_image.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: 35% 0%;
+  background-position: 0% 0%;
 }
 
 .heroImage::after {
