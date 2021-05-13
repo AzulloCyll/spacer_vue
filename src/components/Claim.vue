@@ -37,6 +37,7 @@ export default {
   width: 320px;
   font-size: 13px;
   font-weight: 400;
+  text-align: center;
 
   @media (min-width: 768px) {
     width: 470px;
