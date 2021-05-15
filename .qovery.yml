@@ -1,0 +1,11 @@
+---
+application:
+  name: "spacer-vue"
+  project: "spacer-dany"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-spacer-vue"
+  routes:
+  - application_name: "spacer-vue"
+    paths:
+    - "/*"
